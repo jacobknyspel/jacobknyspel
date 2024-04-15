@@ -1,4 +1,4 @@
-![Louise Bourgeois, 1993, Arch of Hysteria](statue.jpg)
+![Louise Bourgeois, 1993, Arch of Hysteria](arch_of_hysteria.jpg)
 
 # Jacob Knyspel
 
