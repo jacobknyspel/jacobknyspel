@@ -4,7 +4,7 @@ Hi! 👋 I'm a PhD student at the [SGDP Centre](https://www.kcl.ac.uk/sgdp), Kin
 
 Check out my (work in progress) website! 🔗 [jacobknyspel.github.io](https://jacobknyspel.github.io/)
 
-![Louise Bourgeois, 1993, Arch of Hysteria](bourgeois_statue.jpg)
+![Louise Bourgeois, 1993, Arch of Hysteria](statue.jpg)
 
 <!--
 **jacobknyspel/jacobknyspel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
