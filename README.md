@@ -1,10 +1,12 @@
+![Louise Bourgeois, 1993, Arch of Hysteria](statue.jpg)
+
 # Jacob Knyspel
 
 Hi! 👋 I'm a PhD student at the [SGDP Centre](https://www.kcl.ac.uk/sgdp), King's College London, funded by the [KCL MRC DTP](https://kcl-mrcdtp.com/). My area of research is the genetics of common mental health problems. I’m especially interested in improving causal inference and phenotypic specificity in genetics research using methods such as graphical modelling and structural equation modelling.
 
 Check out my (work in progress) website! 🔗 [jacobknyspel.github.io](https://jacobknyspel.github.io/)
 
-![Louise Bourgeois, 1993, Arch of Hysteria](statue.jpg)
+
 
 <!--
 **jacobknyspel/jacobknyspel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
