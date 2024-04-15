@@ -6,7 +6,9 @@ Hi! 👋 I'm a PhD student at the [SGDP Centre](https://www.kcl.ac.uk/sgdp), Kin
 
 Check out my (work in progress) website! 🔗 [jacobknyspel.github.io](https://jacobknyspel.github.io/)
 
+## Recent Publications
 
+Knyspel, J., & Plomin, R. (2024). Comparing factor and network models of cognitive abilities using twin data. *Intelligence*, *104*, 101833. https://doi.org/10.1016/j.intell.2024.101833
 
 <!--
 **jacobknyspel/jacobknyspel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
