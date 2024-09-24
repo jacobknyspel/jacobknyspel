@@ -2,7 +2,7 @@
 
 # Jacob Knyspel
 
-Hi! 👋 I'm a PhD student at the [SGDP Centre](https://www.kcl.ac.uk/sgdp), King's College London, funded by the [KCL MRC DTP](https://kcl-mrcdtp.com/). My area of research is the genetics of common mental health problems. I’m especially interested in improving causal inference and phenotypic specificity in genetics research using methods such as graphical modelling and structural equation modelling.
+Hi! 👋 I'm a PhD student at the [SGDP Centre](https://www.kcl.ac.uk/sgdp), King's College London, funded by the [KCL MRC DTP](https://kcl-mrcdtp.com/). My area of research is the genetics of PTSD.
 
 Check out my (work in progress) website! 🔗 [jacobknyspel.github.io](https://jacobknyspel.github.io/)
 
